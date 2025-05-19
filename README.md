@@ -17,22 +17,25 @@ This work presents an LLM-as-Judge approach to evaluate machine translation syst
 ├── codigo/
 │   ├── llmAsJudge_translations_pairwise_evaluation.py
 │   ├── parse_outputs_pairwise.py
-├── data/
-│   └── all_instances.json
 ├── data_outdomain/
-│   ├── other_domain_data.json
-│   └── modified_scripts/
+│   ├── outputs/
+│   ├── ranking/
+|   ├── script/
+│   └── data_full.json
 ├── prompts/
+│   ├── guidelines_prompt.json
 │   └── baseline_prompt_evaluation.json
 ├── outputs/
-│   └── all_instances_evaluation_<model>_output.json
 ├── rankings/
-│   └── rankings_<model>.csv
 ```
-
+## Brief Description
+- `codigo/`: Contains the code we have used to perform the experiments.
+- `data_outdomain/`: Includes sample data and adapted scripts for evaluating translation in a **non-medical domain**.
+- `prompts/`: Contains the prompt templates used with the LLMs to perform the LLM-as-Judge with pairwise comparison.
+- `outputs` and `ranking` include the results we have obtained with our experiments.
 ---
 
-## Getting Started
+## How to get the LLM evaluation rankings
 
 ### 1. Pairwise Evaluation with LLM-as-Judge
 
@@ -65,8 +68,5 @@ This script generates a ranking CSV and saves it in the `rankings/` directory.
 
 ---
 
-## Additional Resources
 
-- `data_outdomain/`: Includes sample data and adapted scripts for evaluating translation in a **non-medical domain**.
-- `prompts/`: Contains the prompt templates used during evaluation to ensure consistent LLM judgment behavior.
 
