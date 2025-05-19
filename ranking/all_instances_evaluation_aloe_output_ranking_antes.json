@@ -1,0 +1,245 @@
+{
+    "Overall": {
+        "winner_count": {
+            "latxa": 92.0,
+            "enes-eu": 82.5,
+            "es-eu": 78,
+            "en-eu": 75,
+            "gt": 49.0
+        },
+        "trueskill": {
+            "latxa": 27.23,
+            "enes-eu": 26.12,
+            "en-eu": 25.71,
+            "es-eu": 25.57,
+            "gt": 23.82
+        }
+    },
+    "By_language": {
+        "en": {
+            "winner_count": {
+                "latxa": 95,
+                "enes-eu": 77,
+                "en-eu": 75,
+                "gt": 53
+            },
+            "trueskill": {
+                "latxa": 28.52,
+                "enes-eu": 26.11,
+                "en-eu": 25.71,
+                "gt": 25.05
+            }
+        },
+        "es": {
+            "winner_count": {
+                "latxa": 89,
+                "enes-eu": 88,
+                "es-eu": 78,
+                "gt": 45
+            },
+            "trueskill": {
+                "enes-eu": 26.12,
+                "latxa": 25.94,
+                "es-eu": 25.57,
+                "gt": 22.59
+            }
+        }
+    },
+    "By_corpus": {
+        "wiki-es": {
+            "winner_count": {
+                "enes-eu": 13,
+                "es-eu": 10,
+                "latxa": 7,
+                "gt": 6
+            },
+            "trueskill": {
+                "es-eu": 26.38,
+                "enes-eu": 26.19,
+                "latxa": 22.54,
+                "gt": 21.71
+            }
+        },
+        "spaccc-es": {
+            "winner_count": {
+                "enes-eu": 12,
+                "es-eu": 10,
+                "latxa": 10,
+                "gt": 4
+            },
+            "trueskill": {
+                "enes-eu": 29.01,
+                "latxa": 27.88,
+                "es-eu": 27.21,
+                "gt": 23.18
+            }
+        },
+        "snomed-es": {
+            "winner_count": {
+                "latxa": 15,
+                "enes-eu": 9,
+                "gt": 8,
+                "es-eu": 4
+            },
+            "trueskill": {
+                "latxa": 29.33,
+                "gt": 26.12,
+                "enes-eu": 23.41,
+                "es-eu": 19.56
+            }
+        },
+        "pubmedabs-es": {
+            "winner_count": {
+                "latxa": 14,
+                "es-eu": 13,
+                "enes-eu": 11,
+                "gt": 4
+            },
+            "trueskill": {
+                "latxa": 28.34,
+                "es-eu": 26.92,
+                "enes-eu": 26.24,
+                "gt": 22.44
+            }
+        },
+        "ufal-es": {
+            "winner_count": {
+                "es-eu": 11,
+                "latxa": 11,
+                "enes-eu": 9,
+                "gt": 5
+            },
+            "trueskill": {
+                "latxa": 26.19,
+                "enes-eu": 24.56,
+                "es-eu": 24.56,
+                "gt": 22.11
+            }
+        },
+        "EMEA-es": {
+            "winner_count": {
+                "enes-eu": 4,
+                "latxa": 4,
+                "es-eu": 4
+            },
+            "trueskill": {
+                "enes-eu": 31.29,
+                "latxa": 30.19,
+                "es-eu": 27.84,
+                "gt": 14.04
+            }
+        },
+        "pubmedabs-en": {
+            "winner_count": {
+                "en-eu": 28,
+                "latxa": 28,
+                "enes-eu": 23,
+                "gt": 17
+            },
+            "trueskill": {
+                "latxa": 27.19,
+                "en-eu": 26.45,
+                "enes-eu": 26.06,
+                "gt": 24.72
+            }
+        },
+        "clinicaltrials-en": {
+            "winner_count": {
+                "latxa": 28,
+                "en-eu": 20,
+                "gt": 19,
+                "enes-eu": 17
+            },
+            "trueskill": {
+                "latxa": 26.88,
+                "gt": 23.69,
+                "en-eu": 23.27,
+                "enes-eu": 22.01
+            }
+        },
+        "crawler-es": {
+            "winner_count": {
+                "gt": 11,
+                "enes-eu": 10,
+                "latxa": 8,
+                "es-eu": 7
+            },
+            "trueskill": {
+                "gt": 27.24,
+                "enes-eu": 25.21,
+                "latxa": 24.35,
+                "es-eu": 23.04
+            }
+        },
+        "pubmedart-es": {
+            "winner_count": {
+                "es-eu": 14,
+                "latxa": 13,
+                "enes-eu": 12,
+                "gt": 3
+            },
+            "trueskill": {
+                "enes-eu": 27.32,
+                "es-eu": 27.23,
+                "latxa": 26.91,
+                "gt": 20.58
+            }
+        },
+        "clinicalTrials-en": {
+            "winner_count": {
+                "latxa": 9,
+                "enes-eu": 8,
+                "en-eu": 5,
+                "gt": 2
+            },
+            "trueskill": {
+                "latxa": 30.38,
+                "enes-eu": 29.77,
+                "en-eu": 24.42,
+                "gt": 19.7
+            }
+        },
+        "EMEA-en": {
+            "winner_count": {
+                "latxa": 5,
+                "gt": 3,
+                "enes-eu": 3,
+                "en-eu": 1
+            },
+            "trueskill": {
+                "latxa": 28.49,
+                "enes-eu": 26.87,
+                "gt": 23.42,
+                "en-eu": 17.31
+            }
+        },
+        "emea-en": {
+            "winner_count": {
+                "enes-eu": 26,
+                "latxa": 25,
+                "en-eu": 21,
+                "gt": 12
+            },
+            "trueskill": {
+                "enes-eu": 27.94,
+                "latxa": 27.29,
+                "en-eu": 26.16,
+                "gt": 23.94
+            }
+        },
+        "emea-es": {
+            "winner_count": {
+                "enes-eu": 8,
+                "latxa": 7,
+                "es-eu": 5,
+                "gt": 4
+            },
+            "trueskill": {
+                "enes-eu": 29.22,
+                "latxa": 27.13,
+                "es-eu": 25.53,
+                "gt": 22.73
+            }
+        }
+    }
+}

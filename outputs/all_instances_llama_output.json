@@ -1,0 +1,7202 @@
+[
+    {
+        "id": 1,
+        "corpus": "emea-en",
+        "code": 58,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "emea-en",
+        "code": 58,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "emea-en",
+        "code": 58,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "emea-en",
+        "code": 58,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "emea-en",
+        "code": 58,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "emea-en",
+        "code": 58,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "emea-en",
+        "code": 59,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "emea-en",
+        "code": 59,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "emea-en",
+        "code": 59,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 2,
+        "corpus": "emea-en",
+        "code": 59,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 2,
+        "corpus": "emea-en",
+        "code": 59,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "emea-en",
+        "code": 59,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 3,
+        "corpus": "emea-en",
+        "code": 60,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "emea-en",
+        "code": 60,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "emea-en",
+        "code": 60,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "emea-en",
+        "code": 60,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "emea-en",
+        "code": 60,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "emea-en",
+        "code": 60,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 4,
+        "corpus": "emea-en",
+        "code": 61,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 4,
+        "corpus": "emea-en",
+        "code": 61,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "emea-en",
+        "code": 61,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "emea-en",
+        "code": 61,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "emea-en",
+        "code": 61,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 4,
+        "corpus": "emea-en",
+        "code": 61,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 5,
+        "corpus": "emea-en",
+        "code": 62,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 5,
+        "corpus": "emea-en",
+        "code": 62,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 5,
+        "corpus": "emea-en",
+        "code": 62,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 5,
+        "corpus": "emea-en",
+        "code": 62,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 5,
+        "corpus": "emea-en",
+        "code": 62,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 5,
+        "corpus": "emea-en",
+        "code": 62,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 6,
+        "corpus": "emea-en",
+        "code": 63,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 6,
+        "corpus": "emea-en",
+        "code": 63,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 6,
+        "corpus": "emea-en",
+        "code": 63,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 6,
+        "corpus": "emea-en",
+        "code": 63,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 6,
+        "corpus": "emea-en",
+        "code": 63,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 6,
+        "corpus": "emea-en",
+        "code": 63,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 7,
+        "corpus": "emea-en",
+        "code": 64,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 7,
+        "corpus": "emea-en",
+        "code": 64,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 7,
+        "corpus": "emea-en",
+        "code": 64,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 7,
+        "corpus": "emea-en",
+        "code": 64,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 7,
+        "corpus": "emea-en",
+        "code": 64,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 7,
+        "corpus": "emea-en",
+        "code": 64,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 8,
+        "corpus": "emea-en",
+        "code": 65,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 8,
+        "corpus": "emea-en",
+        "code": 65,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 8,
+        "corpus": "emea-en",
+        "code": 65,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 8,
+        "corpus": "emea-en",
+        "code": 65,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 8,
+        "corpus": "emea-en",
+        "code": 65,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 8,
+        "corpus": "emea-en",
+        "code": 65,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 9,
+        "corpus": "emea-en",
+        "code": 66,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 9,
+        "corpus": "emea-en",
+        "code": 66,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 9,
+        "corpus": "emea-en",
+        "code": 66,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 9,
+        "corpus": "emea-en",
+        "code": 66,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 9,
+        "corpus": "emea-en",
+        "code": 66,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 9,
+        "corpus": "emea-en",
+        "code": 66,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 10,
+        "corpus": "emea-en",
+        "code": 67,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 10,
+        "corpus": "emea-en",
+        "code": 67,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 10,
+        "corpus": "emea-en",
+        "code": 67,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 10,
+        "corpus": "emea-en",
+        "code": 67,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 10,
+        "corpus": "emea-en",
+        "code": 67,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 10,
+        "corpus": "emea-en",
+        "code": 67,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 11,
+        "corpus": "emea-en",
+        "code": 68,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 11,
+        "corpus": "emea-en",
+        "code": 68,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 11,
+        "corpus": "emea-en",
+        "code": 68,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 11,
+        "corpus": "emea-en",
+        "code": 68,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 11,
+        "corpus": "emea-en",
+        "code": 68,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 11,
+        "corpus": "emea-en",
+        "code": 68,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 12,
+        "corpus": "emea-en",
+        "code": 69,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 12,
+        "corpus": "emea-en",
+        "code": 69,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 12,
+        "corpus": "emea-en",
+        "code": 69,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 12,
+        "corpus": "emea-en",
+        "code": 69,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 12,
+        "corpus": "emea-en",
+        "code": 69,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 12,
+        "corpus": "emea-en",
+        "code": 69,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 13,
+        "corpus": "emea-en",
+        "code": 70,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 13,
+        "corpus": "emea-en",
+        "code": 70,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 13,
+        "corpus": "emea-en",
+        "code": 70,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 13,
+        "corpus": "emea-en",
+        "code": 70,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 13,
+        "corpus": "emea-en",
+        "code": 70,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 13,
+        "corpus": "emea-en",
+        "code": 70,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 14,
+        "corpus": "emea-en",
+        "code": 71,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 14,
+        "corpus": "emea-en",
+        "code": 71,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 14,
+        "corpus": "emea-en",
+        "code": 71,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 14,
+        "corpus": "emea-en",
+        "code": 71,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 14,
+        "corpus": "emea-en",
+        "code": 71,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 14,
+        "corpus": "emea-en",
+        "code": 71,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "pubmedabs-en",
+        "code": 72,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 1,
+        "corpus": "pubmedabs-en",
+        "code": 72,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "pubmedabs-en",
+        "code": 72,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "pubmedabs-en",
+        "code": 72,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "pubmedabs-en",
+        "code": 72,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "pubmedabs-en",
+        "code": 72,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "pubmedabs-en",
+        "code": 73,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "pubmedabs-en",
+        "code": 73,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "pubmedabs-en",
+        "code": 73,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "pubmedabs-en",
+        "code": 73,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 2,
+        "corpus": "pubmedabs-en",
+        "code": 73,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "pubmedabs-en",
+        "code": 73,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 3,
+        "corpus": "pubmedabs-en",
+        "code": 74,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "pubmedabs-en",
+        "code": 74,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "pubmedabs-en",
+        "code": 74,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "pubmedabs-en",
+        "code": 74,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 3,
+        "corpus": "pubmedabs-en",
+        "code": 74,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 3,
+        "corpus": "pubmedabs-en",
+        "code": 74,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "pubmedabs-en",
+        "code": 75,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "pubmedabs-en",
+        "code": 75,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "pubmedabs-en",
+        "code": 75,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "pubmedabs-en",
+        "code": 75,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "pubmedabs-en",
+        "code": 75,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 4,
+        "corpus": "pubmedabs-en",
+        "code": 75,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 5,
+        "corpus": "pubmedabs-en",
+        "code": 76,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 5,
+        "corpus": "pubmedabs-en",
+        "code": 76,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 5,
+        "corpus": "pubmedabs-en",
+        "code": 76,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 5,
+        "corpus": "pubmedabs-en",
+        "code": 76,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 5,
+        "corpus": "pubmedabs-en",
+        "code": 76,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 5,
+        "corpus": "pubmedabs-en",
+        "code": 76,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 6,
+        "corpus": "pubmedabs-en",
+        "code": 77,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 6,
+        "corpus": "pubmedabs-en",
+        "code": 77,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 6,
+        "corpus": "pubmedabs-en",
+        "code": 77,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 6,
+        "corpus": "pubmedabs-en",
+        "code": 77,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 6,
+        "corpus": "pubmedabs-en",
+        "code": 77,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 6,
+        "corpus": "pubmedabs-en",
+        "code": 77,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 7,
+        "corpus": "pubmedabs-en",
+        "code": 78,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 7,
+        "corpus": "pubmedabs-en",
+        "code": 78,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 7,
+        "corpus": "pubmedabs-en",
+        "code": 78,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 7,
+        "corpus": "pubmedabs-en",
+        "code": 78,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 7,
+        "corpus": "pubmedabs-en",
+        "code": 78,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 7,
+        "corpus": "pubmedabs-en",
+        "code": 78,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 8,
+        "corpus": "pubmedabs-en",
+        "code": 79,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 8,
+        "corpus": "pubmedabs-en",
+        "code": 79,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 8,
+        "corpus": "pubmedabs-en",
+        "code": 79,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 8,
+        "corpus": "pubmedabs-en",
+        "code": 79,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 8,
+        "corpus": "pubmedabs-en",
+        "code": 79,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 8,
+        "corpus": "pubmedabs-en",
+        "code": 79,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 9,
+        "corpus": "pubmedabs-en",
+        "code": 80,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 9,
+        "corpus": "pubmedabs-en",
+        "code": 80,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 9,
+        "corpus": "pubmedabs-en",
+        "code": 80,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 9,
+        "corpus": "pubmedabs-en",
+        "code": 80,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 9,
+        "corpus": "pubmedabs-en",
+        "code": 80,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 9,
+        "corpus": "pubmedabs-en",
+        "code": 80,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 10,
+        "corpus": "pubmedabs-en",
+        "code": 81,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 10,
+        "corpus": "pubmedabs-en",
+        "code": 81,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 10,
+        "corpus": "pubmedabs-en",
+        "code": 81,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 10,
+        "corpus": "pubmedabs-en",
+        "code": 81,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 10,
+        "corpus": "pubmedabs-en",
+        "code": 81,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 10,
+        "corpus": "pubmedabs-en",
+        "code": 81,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 11,
+        "corpus": "pubmedabs-en",
+        "code": 82,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 11,
+        "corpus": "pubmedabs-en",
+        "code": 82,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 11,
+        "corpus": "pubmedabs-en",
+        "code": 82,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 11,
+        "corpus": "pubmedabs-en",
+        "code": 82,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 11,
+        "corpus": "pubmedabs-en",
+        "code": 82,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 11,
+        "corpus": "pubmedabs-en",
+        "code": 82,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 12,
+        "corpus": "pubmedabs-en",
+        "code": 83,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 12,
+        "corpus": "pubmedabs-en",
+        "code": 83,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 12,
+        "corpus": "pubmedabs-en",
+        "code": 83,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 12,
+        "corpus": "pubmedabs-en",
+        "code": 83,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 12,
+        "corpus": "pubmedabs-en",
+        "code": 83,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 12,
+        "corpus": "pubmedabs-en",
+        "code": 83,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 13,
+        "corpus": "pubmedabs-en",
+        "code": 84,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 13,
+        "corpus": "pubmedabs-en",
+        "code": 84,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 13,
+        "corpus": "pubmedabs-en",
+        "code": 84,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 13,
+        "corpus": "pubmedabs-en",
+        "code": 84,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 13,
+        "corpus": "pubmedabs-en",
+        "code": 84,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 13,
+        "corpus": "pubmedabs-en",
+        "code": 84,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 14,
+        "corpus": "pubmedabs-en",
+        "code": 85,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 14,
+        "corpus": "pubmedabs-en",
+        "code": 85,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 14,
+        "corpus": "pubmedabs-en",
+        "code": 85,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 14,
+        "corpus": "pubmedabs-en",
+        "code": 85,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 14,
+        "corpus": "pubmedabs-en",
+        "code": 85,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 14,
+        "corpus": "pubmedabs-en",
+        "code": 85,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 1,
+        "corpus": "clinicaltrials-en",
+        "code": 86,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 1,
+        "corpus": "clinicaltrials-en",
+        "code": 86,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "clinicaltrials-en",
+        "code": 86,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "clinicaltrials-en",
+        "code": 86,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "clinicaltrials-en",
+        "code": 86,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "clinicaltrials-en",
+        "code": 86,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "clinicaltrials-en",
+        "code": 87,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 2,
+        "corpus": "clinicaltrials-en",
+        "code": 87,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 2,
+        "corpus": "clinicaltrials-en",
+        "code": 87,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 2,
+        "corpus": "clinicaltrials-en",
+        "code": 87,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "clinicaltrials-en",
+        "code": 87,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "clinicaltrials-en",
+        "code": 87,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 3,
+        "corpus": "clinicaltrials-en",
+        "code": 88,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "clinicaltrials-en",
+        "code": 88,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 3,
+        "corpus": "clinicaltrials-en",
+        "code": 88,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 3,
+        "corpus": "clinicaltrials-en",
+        "code": 88,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "clinicaltrials-en",
+        "code": 88,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "clinicaltrials-en",
+        "code": 88,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 4,
+        "corpus": "clinicaltrials-en",
+        "code": 89,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 4,
+        "corpus": "clinicaltrials-en",
+        "code": 89,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "clinicaltrials-en",
+        "code": 89,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "clinicaltrials-en",
+        "code": 89,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "clinicaltrials-en",
+        "code": 89,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "clinicaltrials-en",
+        "code": 89,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 5,
+        "corpus": "clinicaltrials-en",
+        "code": 90,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 5,
+        "corpus": "clinicaltrials-en",
+        "code": 90,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 5,
+        "corpus": "clinicaltrials-en",
+        "code": 90,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 5,
+        "corpus": "clinicaltrials-en",
+        "code": 90,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 5,
+        "corpus": "clinicaltrials-en",
+        "code": 90,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 5,
+        "corpus": "clinicaltrials-en",
+        "code": 90,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 6,
+        "corpus": "clinicaltrials-en",
+        "code": 91,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 6,
+        "corpus": "clinicaltrials-en",
+        "code": 91,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 6,
+        "corpus": "clinicaltrials-en",
+        "code": 91,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 6,
+        "corpus": "clinicaltrials-en",
+        "code": 91,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 6,
+        "corpus": "clinicaltrials-en",
+        "code": 91,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 6,
+        "corpus": "clinicaltrials-en",
+        "code": 91,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 7,
+        "corpus": "clinicaltrials-en",
+        "code": 92,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 7,
+        "corpus": "clinicaltrials-en",
+        "code": 92,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 7,
+        "corpus": "clinicaltrials-en",
+        "code": 92,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 7,
+        "corpus": "clinicaltrials-en",
+        "code": 92,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 7,
+        "corpus": "clinicaltrials-en",
+        "code": 92,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 7,
+        "corpus": "clinicaltrials-en",
+        "code": 92,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 8,
+        "corpus": "clinicaltrials-en",
+        "code": 93,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 8,
+        "corpus": "clinicaltrials-en",
+        "code": 93,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 8,
+        "corpus": "clinicaltrials-en",
+        "code": 93,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 8,
+        "corpus": "clinicaltrials-en",
+        "code": 93,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 8,
+        "corpus": "clinicaltrials-en",
+        "code": 93,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 8,
+        "corpus": "clinicaltrials-en",
+        "code": 93,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 9,
+        "corpus": "clinicaltrials-en",
+        "code": 94,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 9,
+        "corpus": "clinicaltrials-en",
+        "code": 94,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 9,
+        "corpus": "clinicaltrials-en",
+        "code": 94,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 9,
+        "corpus": "clinicaltrials-en",
+        "code": 94,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 9,
+        "corpus": "clinicaltrials-en",
+        "code": 94,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 9,
+        "corpus": "clinicaltrials-en",
+        "code": 94,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 10,
+        "corpus": "clinicaltrials-en",
+        "code": 95,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 10,
+        "corpus": "clinicaltrials-en",
+        "code": 95,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 10,
+        "corpus": "clinicaltrials-en",
+        "code": 95,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 10,
+        "corpus": "clinicaltrials-en",
+        "code": 95,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 10,
+        "corpus": "clinicaltrials-en",
+        "code": 95,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 10,
+        "corpus": "clinicaltrials-en",
+        "code": 95,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 11,
+        "corpus": "clinicaltrials-en",
+        "code": 96,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 11,
+        "corpus": "clinicaltrials-en",
+        "code": 96,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 11,
+        "corpus": "clinicaltrials-en",
+        "code": 96,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 11,
+        "corpus": "clinicaltrials-en",
+        "code": 96,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 11,
+        "corpus": "clinicaltrials-en",
+        "code": 96,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 11,
+        "corpus": "clinicaltrials-en",
+        "code": 96,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 12,
+        "corpus": "clinicaltrials-en",
+        "code": 97,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 12,
+        "corpus": "clinicaltrials-en",
+        "code": 97,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 12,
+        "corpus": "clinicaltrials-en",
+        "code": 97,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 12,
+        "corpus": "clinicaltrials-en",
+        "code": 97,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 12,
+        "corpus": "clinicaltrials-en",
+        "code": 97,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 12,
+        "corpus": "clinicaltrials-en",
+        "code": 97,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 13,
+        "corpus": "clinicaltrials-en",
+        "code": 98,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 13,
+        "corpus": "clinicaltrials-en",
+        "code": 98,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 13,
+        "corpus": "clinicaltrials-en",
+        "code": 98,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "en-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 13,
+        "corpus": "clinicaltrials-en",
+        "code": 98,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 13,
+        "corpus": "clinicaltrials-en",
+        "code": 98,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 13,
+        "corpus": "clinicaltrials-en",
+        "code": 98,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 14,
+        "corpus": "clinicaltrials-en",
+        "code": 99,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 14,
+        "corpus": "clinicaltrials-en",
+        "code": 99,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 14,
+        "corpus": "clinicaltrials-en",
+        "code": 99,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 14,
+        "corpus": "clinicaltrials-en",
+        "code": 99,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 14,
+        "corpus": "clinicaltrials-en",
+        "code": 99,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "gt",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 14,
+        "corpus": "clinicaltrials-en",
+        "code": 99,
+        "language": "en",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "crawler-es",
+        "code": 16,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "crawler-es",
+        "code": 16,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "crawler-es",
+        "code": 16,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 1,
+        "corpus": "crawler-es",
+        "code": 16,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "crawler-es",
+        "code": 16,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "crawler-es",
+        "code": 16,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "crawler-es",
+        "code": 17,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "crawler-es",
+        "code": 17,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "crawler-es",
+        "code": 17,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "crawler-es",
+        "code": 17,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 2,
+        "corpus": "crawler-es",
+        "code": 17,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "crawler-es",
+        "code": 17,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "crawler-es",
+        "code": 18,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "crawler-es",
+        "code": 18,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "crawler-es",
+        "code": 18,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "crawler-es",
+        "code": 18,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "crawler-es",
+        "code": 18,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "crawler-es",
+        "code": 18,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "crawler-es",
+        "code": 19,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "crawler-es",
+        "code": 19,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "crawler-es",
+        "code": 19,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "crawler-es",
+        "code": 19,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 4,
+        "corpus": "crawler-es",
+        "code": 19,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 4,
+        "corpus": "crawler-es",
+        "code": 19,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "emea-es",
+        "code": 20,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "emea-es",
+        "code": 20,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "emea-es",
+        "code": 20,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "emea-es",
+        "code": 20,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "emea-es",
+        "code": 20,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "emea-es",
+        "code": 20,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 2,
+        "corpus": "emea-es",
+        "code": 21,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "emea-es",
+        "code": 21,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "emea-es",
+        "code": 21,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "emea-es",
+        "code": 21,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "emea-es",
+        "code": 21,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "emea-es",
+        "code": 21,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 3,
+        "corpus": "emea-es",
+        "code": 22,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 3,
+        "corpus": "emea-es",
+        "code": 22,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "emea-es",
+        "code": 22,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "emea-es",
+        "code": 22,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "emea-es",
+        "code": 22,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "emea-es",
+        "code": 22,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "emea-es",
+        "code": 23,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "emea-es",
+        "code": 23,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "emea-es",
+        "code": 23,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "emea-es",
+        "code": 23,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "emea-es",
+        "code": 23,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "emea-es",
+        "code": 23,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "pubmedabs-es",
+        "code": 24,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 1,
+        "corpus": "pubmedabs-es",
+        "code": 24,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "pubmedabs-es",
+        "code": 24,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "pubmedabs-es",
+        "code": 24,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "pubmedabs-es",
+        "code": 24,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "pubmedabs-es",
+        "code": 24,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "pubmedabs-es",
+        "code": 25,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "pubmedabs-es",
+        "code": 25,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "pubmedabs-es",
+        "code": 25,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "pubmedabs-es",
+        "code": 25,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "pubmedabs-es",
+        "code": 25,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "pubmedabs-es",
+        "code": 25,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "pubmedabs-es",
+        "code": 26,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "pubmedabs-es",
+        "code": 26,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "pubmedabs-es",
+        "code": 26,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 3,
+        "corpus": "pubmedabs-es",
+        "code": 26,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "pubmedabs-es",
+        "code": 26,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "pubmedabs-es",
+        "code": 26,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 4,
+        "corpus": "pubmedabs-es",
+        "code": 27,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "pubmedabs-es",
+        "code": 27,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "pubmedabs-es",
+        "code": 27,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 4,
+        "corpus": "pubmedabs-es",
+        "code": 27,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "pubmedabs-es",
+        "code": 27,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "pubmedabs-es",
+        "code": 27,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 5,
+        "corpus": "pubmedabs-es",
+        "code": 28,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 5,
+        "corpus": "pubmedabs-es",
+        "code": 28,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 5,
+        "corpus": "pubmedabs-es",
+        "code": 28,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 5,
+        "corpus": "pubmedabs-es",
+        "code": 28,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 5,
+        "corpus": "pubmedabs-es",
+        "code": 28,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 5,
+        "corpus": "pubmedabs-es",
+        "code": 28,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "pubmedart-es",
+        "code": 29,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 1,
+        "corpus": "pubmedart-es",
+        "code": 29,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "pubmedart-es",
+        "code": 29,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "pubmedart-es",
+        "code": 29,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "pubmedart-es",
+        "code": 29,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 1,
+        "corpus": "pubmedart-es",
+        "code": 29,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "pubmedart-es",
+        "code": 30,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "pubmedart-es",
+        "code": 30,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "pubmedart-es",
+        "code": 30,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "pubmedart-es",
+        "code": 30,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "pubmedart-es",
+        "code": 30,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "pubmedart-es",
+        "code": 30,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "pubmedart-es",
+        "code": 31,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "pubmedart-es",
+        "code": 31,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "pubmedart-es",
+        "code": 31,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "pubmedart-es",
+        "code": 31,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "pubmedart-es",
+        "code": 31,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 3,
+        "corpus": "pubmedart-es",
+        "code": 31,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "pubmedart-es",
+        "code": 32,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "pubmedart-es",
+        "code": 32,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "pubmedart-es",
+        "code": 32,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "pubmedart-es",
+        "code": 32,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "pubmedart-es",
+        "code": 32,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "pubmedart-es",
+        "code": 32,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 5,
+        "corpus": "pubmedart-es",
+        "code": 33,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 5,
+        "corpus": "pubmedart-es",
+        "code": 33,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 5,
+        "corpus": "pubmedart-es",
+        "code": 33,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 5,
+        "corpus": "pubmedart-es",
+        "code": 33,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 5,
+        "corpus": "pubmedart-es",
+        "code": 33,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 5,
+        "corpus": "pubmedart-es",
+        "code": 33,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "snomed-es",
+        "code": 34,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "snomed-es",
+        "code": 34,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "snomed-es",
+        "code": 34,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 1,
+        "corpus": "snomed-es",
+        "code": 34,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "snomed-es",
+        "code": 34,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "snomed-es",
+        "code": 34,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "snomed-es",
+        "code": 35,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "snomed-es",
+        "code": 35,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "snomed-es",
+        "code": 35,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "snomed-es",
+        "code": 35,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 2,
+        "corpus": "snomed-es",
+        "code": 35,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "snomed-es",
+        "code": 35,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "snomed-es",
+        "code": 36,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "snomed-es",
+        "code": 36,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "snomed-es",
+        "code": 36,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "snomed-es",
+        "code": 36,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "snomed-es",
+        "code": 36,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "snomed-es",
+        "code": 36,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "snomed-es",
+        "code": 37,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "snomed-es",
+        "code": 37,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "snomed-es",
+        "code": 37,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "snomed-es",
+        "code": 37,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "snomed-es",
+        "code": 37,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 4,
+        "corpus": "snomed-es",
+        "code": 37,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "spaccc-es",
+        "code": 38,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "spaccc-es",
+        "code": 38,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 1,
+        "corpus": "spaccc-es",
+        "code": 38,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 1,
+        "corpus": "spaccc-es",
+        "code": 38,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "spaccc-es",
+        "code": 38,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 1,
+        "corpus": "spaccc-es",
+        "code": 38,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 2,
+        "corpus": "spaccc-es",
+        "code": 39,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "spaccc-es",
+        "code": 39,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "spaccc-es",
+        "code": 39,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "spaccc-es",
+        "code": 39,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "spaccc-es",
+        "code": 39,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 2,
+        "corpus": "spaccc-es",
+        "code": 39,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "spaccc-es",
+        "code": 40,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "spaccc-es",
+        "code": 40,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "spaccc-es",
+        "code": 40,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "spaccc-es",
+        "code": 40,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "spaccc-es",
+        "code": 40,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "spaccc-es",
+        "code": 40,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 4,
+        "corpus": "spaccc-es",
+        "code": 41,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "spaccc-es",
+        "code": 41,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "spaccc-es",
+        "code": 41,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "spaccc-es",
+        "code": 41,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "spaccc-es",
+        "code": 41,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "spaccc-es",
+        "code": 41,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "ufal-es",
+        "code": 42,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "ufal-es",
+        "code": 42,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "ufal-es",
+        "code": 42,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "ufal-es",
+        "code": 42,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "ufal-es",
+        "code": 42,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 1,
+        "corpus": "ufal-es",
+        "code": 42,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "ufal-es",
+        "code": 43,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "ufal-es",
+        "code": 43,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "ufal-es",
+        "code": 43,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  _______"
+    },
+    {
+        "id": 2,
+        "corpus": "ufal-es",
+        "code": 43,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "ufal-es",
+        "code": 43,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "ufal-es",
+        "code": 43,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "ufal-es",
+        "code": 44,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 3,
+        "corpus": "ufal-es",
+        "code": 44,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "ufal-es",
+        "code": 44,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "ufal-es",
+        "code": 44,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "ufal-es",
+        "code": 44,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "ufal-es",
+        "code": 44,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "ufal-es",
+        "code": 45,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "ufal-es",
+        "code": 45,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "ufal-es",
+        "code": 45,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 4,
+        "corpus": "ufal-es",
+        "code": 45,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "ufal-es",
+        "code": 45,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 4,
+        "corpus": "ufal-es",
+        "code": 45,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "wiki-es",
+        "code": 46,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "wiki-es",
+        "code": 46,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "wiki-es",
+        "code": 46,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "wiki-es",
+        "code": 46,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "wiki-es",
+        "code": 46,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "wiki-es",
+        "code": 46,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "wiki-es",
+        "code": 47,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "wiki-es",
+        "code": 47,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "wiki-es",
+        "code": 47,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 2,
+        "corpus": "wiki-es",
+        "code": 47,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "wiki-es",
+        "code": 47,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 2,
+        "corpus": "wiki-es",
+        "code": 47,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "wiki-es",
+        "code": 48,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "wiki-es",
+        "code": 48,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "wiki-es",
+        "code": 48,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "wiki-es",
+        "code": 48,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 3,
+        "corpus": "wiki-es",
+        "code": 48,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "wiki-es",
+        "code": 48,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "wiki-es",
+        "code": 49,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "wiki-es",
+        "code": 49,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "wiki-es",
+        "code": 49,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "wiki-es",
+        "code": 49,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "wiki-es",
+        "code": 49,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "es-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "wiki-es",
+        "code": 49,
+        "language": "es",
+        "ita": false,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "clinicalTrials-en",
+        "code": 50,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "gt",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 1,
+        "corpus": "clinicalTrials-en",
+        "code": 50,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 1,
+        "corpus": "clinicalTrials-en",
+        "code": 50,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "clinicalTrials-en",
+        "code": 50,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "en-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 1,
+        "corpus": "clinicalTrials-en",
+        "code": 50,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "en-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "clinicalTrials-en",
+        "code": 50,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 2,
+        "corpus": "clinicalTrials-en",
+        "code": 51,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "clinicalTrials-en",
+        "code": 51,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "gt",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "clinicalTrials-en",
+        "code": 51,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "clinicalTrials-en",
+        "code": 51,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "clinicalTrials-en",
+        "code": 51,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "clinicalTrials-en",
+        "code": 51,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "en-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "clinicalTrials-en",
+        "code": 52,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 3,
+        "corpus": "clinicalTrials-en",
+        "code": 52,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 3,
+        "corpus": "clinicalTrials-en",
+        "code": 52,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "enes-eu",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 3,
+        "corpus": "clinicalTrials-en",
+        "code": 52,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "clinicalTrials-en",
+        "code": 52,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 3,
+        "corpus": "clinicalTrials-en",
+        "code": 52,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "gt",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "clinicalTrials-en",
+        "code": 53,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "clinicalTrials-en",
+        "code": 53,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "clinicalTrials-en",
+        "code": 53,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "clinicalTrials-en",
+        "code": 53,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "enes-eu",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "clinicalTrials-en",
+        "code": 53,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 4,
+        "corpus": "clinicalTrials-en",
+        "code": 53,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "en-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "EMEA-en",
+        "code": 54,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B."
+    },
+    {
+        "id": 1,
+        "corpus": "EMEA-en",
+        "code": 54,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "EMEA-en",
+        "code": 54,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "EMEA-en",
+        "code": 54,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "enes-eu",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 1,
+        "corpus": "EMEA-en",
+        "code": 54,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B."
+    },
+    {
+        "id": 1,
+        "corpus": "EMEA-en",
+        "code": 54,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "en-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "EMEA-en",
+        "code": 55,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 2,
+        "corpus": "EMEA-en",
+        "code": 55,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "EMEA-en",
+        "code": 55,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "enes-eu",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "EMEA-en",
+        "code": 55,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "EMEA-en",
+        "code": 55,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "EMEA-en",
+        "code": 55,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "gt",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "pubmedabs-en",
+        "code": 56,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "enes-eu",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "pubmedabs-en",
+        "code": 56,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "pubmedabs-en",
+        "code": 56,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "pubmedabs-en",
+        "code": 56,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "en-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 1,
+        "corpus": "pubmedabs-en",
+        "code": 56,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "en-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "pubmedabs-en",
+        "code": 56,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "pubmedabs-en",
+        "code": 57,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "en-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "pubmedabs-en",
+        "code": 57,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "pubmedabs-en",
+        "code": 57,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "pubmedabs-en",
+        "code": 57,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "en-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "pubmedabs-en",
+        "code": 57,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "en-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "pubmedabs-en",
+        "code": 57,
+        "language": "en",
+        "ita": true,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "crawler-es",
+        "code": 0,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "es-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "crawler-es",
+        "code": 0,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "es-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "crawler-es",
+        "code": 0,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "es-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "crawler-es",
+        "code": 0,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "crawler-es",
+        "code": 0,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "crawler-es",
+        "code": 0,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "crawler-es",
+        "code": 1,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "gt",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 2,
+        "corpus": "crawler-es",
+        "code": 1,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "crawler-es",
+        "code": 1,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "crawler-es",
+        "code": 1,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "es-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B."
+    },
+    {
+        "id": 2,
+        "corpus": "crawler-es",
+        "code": 1,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "es-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "crawler-es",
+        "code": 1,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "EMEA-es",
+        "code": 2,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "EMEA-es",
+        "code": 2,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "EMEA-es",
+        "code": 2,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "gt",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "EMEA-es",
+        "code": 2,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "EMEA-es",
+        "code": 2,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "enes-eu",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 1,
+        "corpus": "EMEA-es",
+        "code": 2,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "EMEA-es",
+        "code": 3,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "gt",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 2,
+        "corpus": "EMEA-es",
+        "code": 3,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "EMEA-es",
+        "code": 3,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "EMEA-es",
+        "code": 3,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "es-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "EMEA-es",
+        "code": 3,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "es-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 2,
+        "corpus": "EMEA-es",
+        "code": 3,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "pubmedabs-es",
+        "code": 4,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "es-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "pubmedabs-es",
+        "code": 4,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "es-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "pubmedabs-es",
+        "code": 4,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "es-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "pubmedabs-es",
+        "code": 4,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 1,
+        "corpus": "pubmedabs-es",
+        "code": 4,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 1,
+        "corpus": "pubmedabs-es",
+        "code": 4,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "pubmedabs-es",
+        "code": 5,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 2,
+        "corpus": "pubmedabs-es",
+        "code": 5,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "pubmedabs-es",
+        "code": 5,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "pubmedabs-es",
+        "code": 5,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "enes-eu",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 2,
+        "corpus": "pubmedabs-es",
+        "code": 5,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "pubmedabs-es",
+        "code": 5,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "es-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "pubmedart-es",
+        "code": 6,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "es-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "pubmedart-es",
+        "code": 6,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "es-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 1,
+        "corpus": "pubmedart-es",
+        "code": 6,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "es-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 1,
+        "corpus": "pubmedart-es",
+        "code": 6,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "pubmedart-es",
+        "code": 6,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 1,
+        "corpus": "pubmedart-es",
+        "code": 6,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "pubmedart-es",
+        "code": 7,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "es-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "pubmedart-es",
+        "code": 7,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "es-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 2,
+        "corpus": "pubmedart-es",
+        "code": 7,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "es-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "pubmedart-es",
+        "code": 7,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 2,
+        "corpus": "pubmedart-es",
+        "code": 7,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "pubmedart-es",
+        "code": 7,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "snomed-es",
+        "code": 8,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "es-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "snomed-es",
+        "code": 8,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "es-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 1,
+        "corpus": "snomed-es",
+        "code": 8,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "es-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "snomed-es",
+        "code": 8,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "snomed-es",
+        "code": 8,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 1,
+        "corpus": "snomed-es",
+        "code": 8,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "snomed-es",
+        "code": 9,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "snomed-es",
+        "code": 9,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "enes-eu",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "snomed-es",
+        "code": 9,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "snomed-es",
+        "code": 9,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 2,
+        "corpus": "snomed-es",
+        "code": 9,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "snomed-es",
+        "code": 9,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "es-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "spaccc-es",
+        "code": 10,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "enes-eu",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "spaccc-es",
+        "code": 10,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 1,
+        "corpus": "spaccc-es",
+        "code": 10,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "spaccc-es",
+        "code": 10,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "es-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "spaccc-es",
+        "code": 10,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "es-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "spaccc-es",
+        "code": 10,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "spaccc-es",
+        "code": 11,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 2,
+        "corpus": "spaccc-es",
+        "code": 11,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "spaccc-es",
+        "code": 11,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "spaccc-es",
+        "code": 11,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "enes-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "spaccc-es",
+        "code": 11,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "enes-eu",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "spaccc-es",
+        "code": 11,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "gt",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "ufal-es",
+        "code": 12,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "ufal-es",
+        "code": 12,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 1,
+        "corpus": "ufal-es",
+        "code": 12,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "ufal-es",
+        "code": 12,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "es-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "ufal-es",
+        "code": 12,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "es-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "ufal-es",
+        "code": 12,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 2,
+        "corpus": "ufal-es",
+        "code": 13,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "gt",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "ufal-es",
+        "code": 13,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "ufal-es",
+        "code": 13,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "ufal-es",
+        "code": 13,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "es-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "ufal-es",
+        "code": 13,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "es-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "ufal-es",
+        "code": 13,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "wiki-es",
+        "code": 14,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "es-eu",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "wiki-es",
+        "code": 14,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "es-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "wiki-es",
+        "code": 14,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "es-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "wiki-es",
+        "code": 14,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    },
+    {
+        "id": 1,
+        "corpus": "wiki-es",
+        "code": 14,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "gt",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 1,
+        "corpus": "wiki-es",
+        "code": 14,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "enes-eu",
+            "latxa"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "wiki-es",
+        "code": 15,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "gt"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "wiki-es",
+        "code": 15,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "wiki-es",
+        "code": 15,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "latxa",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "wiki-es",
+        "code": 15,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "gt",
+            "es-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "wiki-es",
+        "code": 15,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "gt",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  B"
+    },
+    {
+        "id": 2,
+        "corpus": "wiki-es",
+        "code": 15,
+        "language": "es",
+        "ita": true,
+        "combination": [
+            "es-eu",
+            "enes-eu"
+        ],
+        "model_evaluation": "Chosen translation:  A"
+    }
+]

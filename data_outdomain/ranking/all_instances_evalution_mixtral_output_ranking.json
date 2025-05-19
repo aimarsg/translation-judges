@@ -1,0 +1,14 @@
+{
+    "Overall": {
+        "winner_count": {
+            "itzuli": 62,
+            "nllb": 57,
+            "upv-cmbt": 45
+        },
+        "trueskill": {
+            "itzuli": "27.27 ± 0.87",
+            "upv-cmbt": "26.39 ± 0.88",
+            "nllb": "25.89 ± 0.86"
+        }
+    }
+}
